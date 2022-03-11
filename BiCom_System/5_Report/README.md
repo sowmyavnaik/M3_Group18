@@ -1,29 +1,29 @@
 # A BiCom system 
 
 ## TABLE OF CONTENTS
-1.Description
-2.Features
-3.Requirements
-  3.1.High level requirements
-  3.2.High level requirements
-4.SWOT Analysis
-5.5W's AND 1H
-  5.1.WHat
-  5.2.Who
-  5.3.Where
-  5.4.When
-  5.5.Why
-  5.6.How
-6.ARCHITECTURE
-  6.1.STRUCTURAL DIAGRAM
-    6.1.1.HIGH LEVEL STRUCTURAL DIAGRAM
-    6.1.2.LOW LEVEL STRUCTURAL DIAGRAM
-  6.2.BEHAVIORAL DIAGRAM
-    6.2.1.HIGH LEVEL BEHAVIORAL DIAGRAM
-    6.2.2.LOW LEVEL BEHAVIORAL DIAGRAM
-7.TEST PLANS AND OUTPUTS
-  7.1.HIGH LEVEL TEST PLAN
-  7.2.LOW LEVEL TEST PLAN
+* 1.Description
+* 2.Features
+* 3.Requirements
+*   3.1.High level requirements
+*   3.2.High level requirements
+* 4.SWOT Analysis
+* 5.5W's AND 1H
+*   5.1.WHat
+*   5.2.Who
+*   5.3.Where
+*   5.4.When
+*   5.5.Why
+*   5.6.How
+* 6.ARCHITECTURE
+*   6.1.STRUCTURAL DIAGRAM
+*     6.1.1.HIGH LEVEL STRUCTURAL DIAGRAM
+*     6.1.2.LOW LEVEL STRUCTURAL DIAGRAM
+*   6.2.BEHAVIORAL DIAGRAM
+*     6.2.1.HIGH LEVEL BEHAVIORAL DIAGRAM
+*     6.2.2.LOW LEVEL BEHAVIORAL DIAGRAM
+* 7.TEST PLANS AND OUTPUTS
+*   7.1.HIGH LEVEL TEST PLAN
+*   7.2.LOW LEVEL TEST PLAN
 
 ## 1.Description
 * A BiCom systemis the extention of the unidirectional RKE to bidirectional RKE system. 
