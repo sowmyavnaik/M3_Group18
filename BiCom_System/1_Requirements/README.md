@@ -44,7 +44,7 @@
 |HLR3|	It shall print car battery information|
 |HLR4|	It shall door status of the car|
 
-### High level requirements
+### Low level requirements
 
 |ID	|Low Level Requirements for HLR1	|  |ID|	Low Level Requirements for HLR2|
 |----|--------------------------------|--|----|--------------|
