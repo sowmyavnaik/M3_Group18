@@ -22,10 +22,10 @@
 
 ### High level requirements
 
-|ID	|Low Level Requirements for HLR1	| |	ID|	Low Level Requirements for HLR2|
-|----|--------------|----||----|--------------|
+|ID	|Low Level Requirements for HLR1	|  |ID|	Low Level Requirements for HLR2|
+|----|--------------------------------|--|----|--------------|
 |LLR1.1|	If the switch is pressed once, ON all LED's| |	LLR2.1	|If the switch is pressed twice, OFF LED's|
 
-|ID|	Low Level Requirements for HLR3|		|ID	|Low Level Requirements for HLR4|
-|----|--------------|----||----|--------------|
+|ID|	Low Level Requirements for HLR3|	|ID	|Low Level Requirements for HLR4|
+|----|-------------------------------|--|----|--------------|
 |LLR3.1|	If the switch is pressed three times, ON all LED's in clockwise manner	|  |	LLR4.1|	If the switch is pressed FOUR times, ON all LED's in anti-clockwise manner|
