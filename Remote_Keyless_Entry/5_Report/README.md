@@ -1,26 +1,24 @@
 ﻿# Table of content
- 
-## 1.Remote keyless entry (RKE)
-     1.1.Description
-     1.2.Features
-     1.3.5W's AND 1H 
-     1.4.SWOT Analysis
- 
-## 2.Requirements
-     2.1.High level requirements
-     2.2.Low level requirements
-     
-## 3.Architecture
-     3.1.STRUCTURAL DIAGRAM
-     3.1.1.High level structural diagram
-     3.1.2.Low level structural diagram
-     3.2.BEHAVIORAL DIAGRAM
-     3.2.1.High level behavoiral diagram
-     3.2.2.Low level behavoiral diagram
-     
-## 4.Test plan and output
-     4.1.High level test plan
-     4.2.Low level test plan
+ |S.NO|CONTENT|
+ |--|--|
+ |1|Remote keyless entry (RKE)|
+ |1.1|Description|
+ |1.2|Features|
+ |1.3|5W's AND 1H |
+ |1.4|SWOT Analysis|
+ |2|Requirements|
+ |2.1|High level requirements|
+ |2.2|Low level requirements|
+ |3|Architecture|
+ |3.1|STRUCTURAL DIAGRAM|
+ |3.1.1|High level structural diagram|
+ |3.1.2|Low level structural diagram|
+ |3.2|BEHAVIORAL DIAGRAM|
+ |3.2.1|High level behavoiral diagram|
+ |3.2.2|Low level behavoiral diagram|
+ |4|Test plan and output|
+ |4.1|High level test plan|
+ |4.2|Low level test plan|
  
 ## Remote keyless entry (RKE) 
 
