@@ -11,7 +11,7 @@
 
 |Test|	Description|	Input|	Expected output|	Actual Output|
 |----|-------------|--------|-------------------|--------------|
-|01|	lock|	switch pressed once|	shall on all led's |shall on all led's as per encryption	|
-|02|	unlock|	switch pressed twice	|shall off all led's| shall off all led's as per encryption	|
-|03|	alarm activate/deactivate| switch pressed three times	|shall on led's once clockwise|shall on led's once clockwise as per encryption	|
-|04|	approach light|	switch pressed four times	|shall on led's once anti-clockwise| shall on led's once anti-clockwise as per encryption	|
+|01|	lock|	switch pressed once|	shall on all led's |shall on all led's	|
+|02|	unlock|	switch pressed twice	|shall off all led's| shall off all led's |
+|03|	alarm activate/deactivate| switch pressed three times	|shall on led's once clockwise|shall on led's once clockwise |
+|04|	approach light|	switch pressed four times	|shall on led's once anti-clockwise| shall on led's once anti-clockwise|
