@@ -1,26 +1,26 @@
 ﻿# Table of content
  |S.NO|CONTENT|
  |--|--|
- |1|Remote keyless entry (RKE)|
+ |1|REMOTE kEYLESS ENTRY(RKE)|
  |1.1|Description|
  |1.2|Features|
  |1.3|5W's AND 1H |
  |1.4|SWOT Analysis|
- |2|Requirements|
+ |2|REQUIREMENTS|
  |2.1|High level requirements|
  |2.2|Low level requirements|
- |3|Architecture|
+ |3|ARCHITECTURE|
  |3.1|STRUCTURAL DIAGRAM|
  |3.1.1|High level structural diagram|
  |3.1.2|Low level structural diagram|
  |3.2|BEHAVIORAL DIAGRAM|
  |3.2.1|High level behavoiral diagram|
  |3.2.2|Low level behavoiral diagram|
- |4|Test plan and output|
+ |4|TEST PLAN AND OUTPUT|
  |4.1|High level test plan|
  |4.2|Low level test plan|
  
-## 1.Remote keyless entry (RKE) 
+## 1.REMOTE kEYLESS ENTRY(RKE) 
 
 ## 1.1.Description
 * Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles. It requires two components - a transmitter and a receiver. RKE operates by broadcasting radio waves on a particular frequency unidirectionally. RKE systems implement encryption and rolling code algorithms to prevent car thieves from intercepting and spoofing the telegrams. 
@@ -55,7 +55,7 @@
 
 ![project](https://user-images.githubusercontent.com/46950972/157833977-c16ab5d7-07b6-4e8b-bc68-ed01de10b3bc.png)
 
-## 2.Requirements
+## 2.REQUIREMENTS
 
 ### 2.1.High level requirements
 
@@ -76,7 +76,7 @@
 |----|-------------------------------|--|----|--------------|
 |LLR3.1|	If the switch is pressed three times, ON all LED's in clockwise manner	|  |	LLR4.1|	If the switch is pressed FOUR times, ON all LED's in anti-clockwise manner|
 
-## Architecture
+## 3.ARCHITECTURE
 
 # 3.1.STRUCTURAL DIAGRAM
 
@@ -95,7 +95,7 @@
 ## 3.2.2.LOW LEVEL BEHAVIORAL DIAGRAM
 ![lowlevel](https://github.com/sowmyavnaik/M3_Group18/blob/main/Remote_Keyless_Entry/2_Architecture/M3-rkellbd.drawio.png)
 
-## 4.Test plan and output
+## 4.TEST PLAN AND OUTPUT
 ## 4.1.HIGH LEVEL TEST PLAN 
 
 |Test|	Description|	Input|	Expected output|	Actual Output|
