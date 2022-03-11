@@ -44,7 +44,7 @@
 |HLR3|	It shall activate / deactivate the alarm|
 |HLR4|	It shall approach light|
 
-### High level requirements
+### Low level requirements
 
 |ID	|Low Level Requirements for HLR1	|  |ID|	Low Level Requirements for HLR2|
 |----|--------------------------------|--|----|--------------|
