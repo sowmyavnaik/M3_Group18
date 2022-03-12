@@ -1,1 +1,1 @@
-# A BiCom system 
+# BiCom system 
