@@ -11,7 +11,7 @@
 
 # 5W's AND 1H
 
-## WHat
+## What
 - URemote wireless key for car/Automotives.
 
 ## Who 
